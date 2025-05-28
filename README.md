@@ -14,7 +14,7 @@ Este projeto foi desenvolvido como parte do desafio da plataforma, com foco no u
 
 ## 🛠️ Técnicas e Recursos Utilizados
 
-- Fórmulas como `SE`, `SOMA`, `MÉDIA`, `TAXA`, `VP`, `VF`
+- Fórmulas como `Procv`
 - Gráficos de colunas e linhas para visualização dos rendimentos
 - Formatação condicional
 - Validação de dados e uso de listas suspensas
